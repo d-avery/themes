@@ -1,0 +1,11 @@
+@-moz-document domain("discord.com") {
+   /* ==UserStyle==
+    @name         Nocturnal
+    @description  Nocturnal theme
+    @author       xcruxiex
+    @namespace    https://github.com/xcruxiex/themes
+    @version      1.0.0
+    @supportURL   https://discord.gg/
+    ==/UserStyle== */
+   @import url(https://raw.githubusercontent.com/xcruxiex/themes/master/themes-cores/nocturnal.css);
+}
